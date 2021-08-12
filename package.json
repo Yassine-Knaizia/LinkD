@@ -1,0 +1,30 @@
+{
+  "name": "link-d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "author": "Yassine Knaizia",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.2",
+    "flash": "^1.1.0",
+    "http-proxy": "^1.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.2",
+    "nodemon": "^2.0.9",
+    "socket.io": "^4.1.3",
+    "socket.io-stream": "^0.9.1",
+    "web-push": "^3.4.5"
+  }
+}

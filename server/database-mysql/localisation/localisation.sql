@@ -1,0 +1,1 @@
+Create Table localisation(localisation_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT, localisation_name VARCHAR(20));
