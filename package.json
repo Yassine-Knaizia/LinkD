@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js"
+    "start": "server/index.js"
   },
   "author": "Yassine Knaizia",
   "license": "ISC",
